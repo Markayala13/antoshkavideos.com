@@ -1,0 +1,16 @@
+{
+  "name": "Fridushka Marketing",
+  "short_name": "Fridushka",
+  "description": "Videos que detienen el scroll. Creativos para Meta Ads, Instagram Reels, TikTok y YouTube Shorts.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08080f",
+  "theme_color": "#ff2d55",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

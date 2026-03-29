@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fridushka.com/sitemap.xml
